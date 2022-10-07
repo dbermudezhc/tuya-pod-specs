@@ -22,7 +22,7 @@
         "TuyaNormalUI": [],
         "TuyaSmartBaseKit": [],
         "lottie-ios": [
-            "~> 2.0"
+            "~> 3.4"
         ]
     },
     "frameworks": [
